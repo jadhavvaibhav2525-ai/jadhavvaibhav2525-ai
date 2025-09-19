@@ -173,7 +173,7 @@ console.log("Welcome to my GitHub profile! 🎉");
 
 <br/>
 
-### 🌟 "First, solve the problem. Then, write the code." – John Johnson
+### 🌟 "First, solve the problem. Then, write the code." – Vaibhav Jadhav
 
 **Thanks for visiting! Let's connect and build something amazing together! 🚀**
 
