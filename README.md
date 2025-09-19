@@ -2,11 +2,11 @@
 
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> Hey there! I'm Vaibhav Jadhav
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Vaibhav+Jadhav!;Frontend+Developer;GitOps+Enthusiast;" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Vaibhav+Jadhav!;Frontend+Developer;Web+Developer;" />
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### 🚀 Passionate Frontend Developer | GitOps Enthusiast | India 🇮🇳
+### 🚀 Passionate Frontend Developer | Web Developer | India 🇮🇳
 
 [![Profile Views](https://komarev.com/ghpvc/?username=jadhavvaibhav2525-ai&label=Profile%20views&color=blueviolet&style=for-the-badge)](https://github.com/jadhavvaibhav2525-ai)
 
@@ -23,7 +23,7 @@ const vaibhav = {
     location: "India 🇮🇳",
     role: "Frontend Developer",
     passion: ["Creating seamless UX", "Modern Web Dev", "Open Source"],
-    currentFocus: "GitOps & Cloud Technologies",
+    currentFocus: "Full-Stack Web Development",
     dailyRoutine: ["☕ Coffee", "💻 Code", "🔄 Repeat"],
     motto: "Building the future, one commit at a time! 🚀"
 };
@@ -45,9 +45,9 @@ console.log("Welcome to my GitHub profile! 🎉");
 - Exploring micro-frontends
 
 **🌱 Learning Journey** 
-- Advanced GitLabs workflows
-- Kubernetes & Docker
-- Next.js 14 & React 18
+- Advanced React.js & Vue.js
+- Node.js & Express.js
+- Full-stack development
 
 </td>
 <td>
