@@ -147,7 +147,7 @@ console.log("Welcome to my GitHub profile! 🎉");
 <a href="tel:+918788026401">
   <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=phone&logoColor=white" />
 </a>
-<a href="https://linkedin.com/in/yourprofile" target="_blank">
+<a href="https://www.linkedin.com/in/vaibhav-jadhav-a272b3347" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://twitter.com/yourhandle" target="_blank">
