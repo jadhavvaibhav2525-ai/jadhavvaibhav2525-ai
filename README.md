@@ -66,12 +66,6 @@ console.log("Welcome to my GitHub profile! 🎉");
 </tr>
 </table>
 
-<div align="center">
-
-**📫 Let's Connect:** [jadhavvaibhav2525@gmail.com](mailto:jadhavvaibhav2525@gmail.com)
-
-</div>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Tech Arsenal
@@ -124,12 +118,34 @@ console.log("Welcome to my GitHub profile! 🎉");
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="25"> Let's Connect & Collaborate!
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="25"> Contact Me
 
 <div align="center">
 
+### 📞 Get In Touch
+
+<table>
+<tr>
+<td align="center">
+<strong>📧 Email</strong><br/>
+<a href="mailto:jadhavvaibhav2525@gmail.com">jadhavvaibhav2525@gmail.com</a>
+</td>
+<td align="center">
+<strong>📱 Mobile</strong><br/>
+<a href="tel:+918788026401">+91 8788026401</a>
+</td>
+</tr>
+</table>
+
+<br/>
+
+### 🌐 Connect With Me
+
 <a href="mailto:jadhavvaibhav2525@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+</a>
+<a href="tel:+918788026401">
+  <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=phone&logoColor=white" />
 </a>
 <a href="https://linkedin.com/in/yourprofile" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -146,6 +162,11 @@ console.log("Welcome to my GitHub profile! 🎉");
 <a href="https://dev.to/yourhandle" target="_blank">
   <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />
 </a>
+
+<br/><br/>
+
+### 💬 Let's Collaborate!
+*Always open to discussing new opportunities, projects, and tech innovations!*
 
 </div>
 
